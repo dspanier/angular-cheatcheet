@@ -33,7 +33,7 @@ ng g c <component-name>
 ```
 
 **Info**
-> Angular creates new components direct into the `app` folder. Most of the time it's better to create create components within a component directory. Therefore you can add a path before the component name like: `ng g c /components/<component-name>`
+> Angular creates new components direct into the `app` folder. Most of the time it's better to create components within a component directory. Therefore you can add a path before the component name like: `ng g c /components/<component-name>`
 
 # Component files
 Angular splits its logic into 4 different files.
